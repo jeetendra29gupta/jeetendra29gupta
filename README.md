@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeetendra29gupta&label=Profile%20views&color=0e75b6&style=flat" alt="jeetendra29gupta" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeetendra29gupta" alt="jeetendra29gupta" /></a> </p>
-
+<hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jeetendra29gupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeetendra29gupta" height="30" width="40" /></a>
