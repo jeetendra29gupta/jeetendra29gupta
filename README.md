@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **One97 Communications Ltd.**
 
-- 🌱 I’m currently learning **Next.js** **Tensorflow** **Tensorflow** **elasticsearch and kibana** 
+- 🌱 I’m currently learning **Next.js**, **Tensorflow**, **Tensorflow**, **elasticsearch and kibana** 
 
 - 💬 Ask me about **Java, Spring Boot, Python**
 
