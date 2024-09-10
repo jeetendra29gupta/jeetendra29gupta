@@ -1,158 +1,174 @@
-<h1 align="center">Hi 👋, I'm Jeetendra Gupta</h1>
-<h3 align="center">Python Backend & API Developer from India</h3>
+# JEETENDRA GUPTA
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetendra29gupta&label=Profile%20views&color=0e75b6&style=flat" alt="jeetendra29gupta" /> </p>
+**Python Backend & API Developer**
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jeetendra29gupta" alt="jeetendra29gupta" />
-  </a> 
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/sameer1814" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sameer1814?logo=twitter&style=for-the-badge" alt="sameer1814" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on **NTT DATA Business Solutions**
-
-- 🌱 I’m currently learning **Python, Flask, FastAPI, RestAPI, SQL, NonSQL, Linux Server**
-
-- 👨‍💻 All of my projects are available at [My LinkedIn Profile](https://www.linkedin.com/in/jeetendra29gupta/)
-
-- 💬 Ask me about **Python, Flask, FastAPI, RestAPI, SQL, NonSQL, Linux Server**
-
-- 📫 How to reach me: **[My LinkedIn Profile](https://www.linkedin.com/in/jeetendra29gupta/)**
-
-- 📄 Know about my experiences: [My Resume](https://jeetendra29gupta.github.io/profile/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/jeetendra29gupta" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jeetendra Gupta LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/sameer1814" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jeetendra Gupta Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sameer1814" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jeetendra Gupta Instagram" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetendra29gupta&show_icons=true&locale=en&layout=compact" alt="jeetendra29gupta" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetendra29gupta&show_icons=true&locale=en" alt="jeetendra29gupta" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetendra29gupta&" alt="jeetendra29gupta" /></p>
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=jeetendra29gupta&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="jeetendra29gupta trophies" /></p>
-
-<h3 align="left">✍️ Random Dev Quote:</h3>
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" /></p>
-
-<h3 align="left">🔝 Top Contributed Repo:</h3>
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=jeetendra29gupta&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="top contributed repo" /></p>
+**Location:** New Delhi, India  
+**Email:** jeetendra29gupta@gmail.com  
+**Phone:** +91 9555613730  
+**Date of Birth:** 29th November 1988
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=jeetendra29gupta&icon=0&color=0)](https://visitcount.itsvg.in)
+## OBJECTIVE
+
+With nine years of experience as a Python backend developer, I have honed my skills in developing online applications, REST APIs, backend services, and automating tasks. Throughout my career, I have contributed to increasing income, enhancing security, improving system performance, and boosting user engagement, all while reducing software release schedules, bugs, and operating expenses. Proficient in various software libraries and frameworks such as Flask, FastAPI, JavaScript, HTML, CSS, and microservices architecture, I excel in tasks related to automated tasks, continuous integration, and Python programming.
+
+---
+
+## WORK EXPERIENCES
+
+### Senior Python Backend Developer
+**NTT Data Business Solutions, Gurugram** (SAP Software & Solutions, Germany)  
+*July 2023 - Current*
+
+- Developed automation solutions for AWS file system backup and restore operations by leveraging Python and its built-in libraries.
+- Automated tasks related to AWS S3, file archiving, and disk space monitoring.
+- Conducted Snappy Agent Based File System Backup and Restore Automation Testing using Python and Behave Framework.
+
+### Senior Python Backend Developer
+**Iora Ecological Solutions Pvt. Ltd, Delhi**  
+*October 2023 - June 2024*
+
+- Developed the SDG Monitoring Dashboard and backend endpoint service for the State of Assam and J&K.
+- Provided remote sensing and mapping services for Bio-economy in the Democratic Republic of Congo.
+- Created a comprehensive Visualization Portal for DRC using Python, Flask, and JavaScript.
+- Contributed to ecological landscape management projects and the development of a Digital Carbon Toolbox.
+
+### Python Backend Developer
+**Jindal India Thermal Power Ltd, Delhi** (Amala Earth, Delhi)  
+*February 2023 - October 2023*
+
+- Functioned as a Backend Python developer, crafting APIs and reporting modules using Flask and FastAPI.
+- Reviewed code, debugged issues, and implemented automated build and deployment pipelines.
+- Enhanced network, system, and data availability through preventative maintenance upgrades.
+
+### Senior Software Developer
+**Infinite Computer Solutions, Gurugram** (Nokia, Noida)  
+*January 2022 - February 2023*
+
+- Created applications, monitoring tools, and reporting modules as a Python developer.
+- Trained and mentored new developers on company design and review standards.
+- Collaborated with clients and engineers to evaluate software and hardware interfaces.
+
+### Software Developer
+**One97 Communications LTD, Noida** (PayTM, Noida)  
+*May 2016 - January 2022*
+
+- Developed in-house applications for monitoring servers and hardware inventory.
+- Collaborated with software development and testing teams to design and develop robust solutions.
+- Upgraded legacy code bases and developed scalable APIs using Java and Python.
+
+### Network Support Engineer
+**Accel Frontline LTD, Delhi** (Timex Group India, Noida)  
+*July 2014 - May 2016*
+
+- Installed network hubs, web, and storage servers, and automated task execution with scripts.
+- Diagnosed network issues and assisted users in setting up and configuring wireless networks.
+
+---
+
+## TECHNICAL SKILLS
+
+- **Languages & Frameworks:** Python, Flask, FastAPI, Java, JavaScript, HTML, CSS
+- **Databases:** MariaDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Ansible, Jira, Postman, Git, Docker, AWS, Linux (Redhat, CentOS, Ubuntu), Windows Server
+- **APIs & Web Services:** REST API, JWT, Gunicorn/Uvicorn
+- **Other:** Shell/Bash Scripting, Redis, PyCharm
+
+---
+
+## EDUCATION
+
+- **PG-DAC**  
+  Centre for Development of Advanced Computing, Delhi - 2013
+
+- **Bachelor of Computer Science Engineering**  
+  Maharshi Dayanand University, Haryana - 2012
+
+- **High Secondary School (Science Maths & Computer)**  
+  Ebenezer Matriculation Higher Secondary School, Tamilnadu - 2008
+
+---
+
+## INDUSTRIAL ACHIEVEMENTS
+
+- Completed 3 months of training in DB2 by IBM.
+- Completed 6 weeks of training in HTML & Web fundamentals at Oxford Computer Academy.
+- Received 4 weeks of training in JAVA from Informatics Computer Education.
+- Undertook a 6-week internship in JAVA at J.K Technologies PVT. LTD.
+- Completed 6 months of training in PHP & PHP++ at MultiSoft System.
+- Engaged in a 3-month internship in PHP at Matrix Infosys.
+
+---
+
+## CERTIFICATIONS
+
+- Completed training on Infinite Cloud Foundation (AWS/Microsoft Azure).
+- Certified by Infinite Certified Kubernetes Association upon completion of training.
+- Certification for completing training on Infinite Redhat 7/8 OS.
+- Best Performer for the month (Sep’22).
+- Spark award - Q2 (Jul’22 to Sep’22).
+
+---
+
+## SELECTED PROJECTS
+
+### Shopify marketplace integration with Unicommerce
+
+- Developed backend APIs to integrate Shopify Marketplace with Unicommerce.
+- Implemented user authentication using JWT and the FastAPI Python framework.
+- Created APIs to bridge Shopify and Unicommerce for various functionalities like user authentication, order management, and payment processing.
+
+### Amala Earth Finance Module
+
+- Designed a finance module for calculating seller amounts and payment details based on delivered orders.
+- Automated Excel file generation using Python's Pandas module.
+
+### Nokia IMPACT 21/22 with MariaDB and Oracle
+
+- Constructed a custom reporting module for client SQL queries.
+- Developed system-monitoring tools using Python and Ansible for configuration management.
+
+### Docker Duck
+
+- Developed monitoring tools for Docker containers using Python and Shell scripting.
+- Implemented email notifications for container issues.
+
+### PayTM Server Monitoring Panel – EGL
+
+- Developed an in-house application for monitoring PayTM servers and services.
+- Implemented proactive server monitoring and alerting mechanisms.
+
+### PayTM Hardware Change Detection
+
+- Developed a Python agent and script for hardware monitoring and AWS Lambda integration for data storage.
+- Designed a monitoring module to compare current and stored data, triggering email alerts for detection.
+
+### Remote Sensing and Mapping Services to Bioeconomy for Land Use
+
+- Implemented remote sensing and mapping services for Bioeconomy initiatives.
+- Developed a Python Flask web application for map creation and report generation.
+
+### Plugin for the ArcGIS and Automation Task in Pro ArcGIS
+
+- Developed customized ArcGIS plugins using Python to enhance team functionalities.
+- Automated tasks to minimize manual efforts, improving productivity.
+
+### AWS File System Backup and Restore Automation Using Python and CLI Commands
+
+- Implemented Python scripts to automate AWS file system operations.
+- Enhanced reliability and efficiency of backup and restore operations.
+
+### Snappy Agent-Based File System Backup and Restore Automation Testing with Python and Behave Framework
+
+- Leveraged Python and the Behave framework for test script development.
+- Achieved comprehensive test coverage, contributing to high-quality software releases.
+
+---
+
+## DECLARATION
+
+I confirm my intention to serve in the stated position and present my availability to serve for the term of the proposed contract. I also understand that any wilful misstatement described above may lead to my disqualification, before or during my engagement.
+
+**(Jeetendra Gupta)**  
+*Place/Date*
