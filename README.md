@@ -3,9 +3,7 @@
 **Python Backend & API Developer**  
 New Delhi, India  
 29th Nov 1988  
-[jeetendra29gupta@gmail.com](mailto:jeetendra29gupta@gmail.com)
-[linkedin.com/in/jeetendra29gupta](https://linkedin.com/in/jeetendra29gupta)
-[github.com/jeetendra29gupta](https://github.com/jeetendra29gupta)
+[jeetendra29gupta@gmail.com](mailto:jeetendra29gupta@gmail.com)  
 +91 9555613730  
 
 ## Objective
