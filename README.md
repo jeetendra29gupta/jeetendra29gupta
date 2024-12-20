@@ -1,3 +1,10 @@
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=jeetendra29gupta&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetendra29gupta&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeetendra29gupta&layout=compact&theme=cobalt&hide_border=true" />
+
+---
 # Jeetendra Gupta  
 **Python Backend & API Developer**  
 Gorakhpur, Uttar Pradesh, 273412  
@@ -21,6 +28,7 @@ With 9 years of experience as a Python backend developer, I have honed my skills
 - **Automated GCP File System Backup and Restore**: Developed Python automation scripts to streamline backup and restore operations on Google Cloud Platform (GCP). Leveraged Python’s subprocess module to execute Linux commands (e.g., tar for file archiving, df -h for disk space monitoring), significantly reducing manual intervention and improving operational efficiency.  
 - **Automated Snappy Agent Backup Testing**: Designed and implemented automated testing for Snappy Agent-based backup and restore operations using the Python Behave Framework. Authored feature files and step definitions to ensure comprehensive test coverage and validation of backup/restore processes, ensuring system reliability and robustness.  
 - **Automated GCP VM Snapshot Management**: Developed Python scripts utilizing the GCP SDK and gcloud CLI to automate the creation, management, and deletion of virtual machine snapshots for both OS and data disks. Ensured timely and consistent snapshots for data protection, disaster recovery, and seamless integration with broader cloud infrastructure workflows.
+- **Snappy Detect**: Developed a system to automatically detect the underlying cloud provider by analyzing specific file paths and installed CLI tools. Enabled OS version detection to trigger OS-specific commands based on the system environment. Incorporated detection of installed databases, services and RPM's. Displayed results in a user-friendly table format in the terminal, with an option to export data in JSON format.
 
 ### **Senior Python Backend Developer**  
 **Iora Ecological Solutions Pvt. Ltd.**  
