@@ -79,25 +79,26 @@ With 9 years of experience as a Python backend developer, I have honed my skills
 - **Frameworks**: Flask, Fast API
 - **Databases**: PostgreSQL, MySQL, MariaDB, Redis, Sqlite3
 - **Cloud Platforms**: AWS (EC2, S3, Lambda, API Gateway), GCP (Storage, Compute)
-- **DevOps & Automation**: Docker, Ansible, CI/CD, Shell/Bash Scripting
-- **API Technologies**: REST API, JWT, Gunicorn/Uvicorn, Postman, GraphQL
+- **DevOps & Automation**: Ansible, CI/CD, Shell/Bash Scripting
+- **API Technologies**: REST API, JWT, Gunicorn/Uvicorn, Postman, GraphQL, Swagger, RESTful Services
 - **Version Control**: Git (GitHub, Git Bash), SVN
 - **Authentication & Security**: JWT, OAuth2
 - **Operating Systems**: Linux (Redhat, CentOS, Ubuntu), Windows Desktop/Server
-- **Web Technologies**: HTML5, CSS3, JavaScript, Bootstrap, ReactJS
+- **Web Technologies**: HTML5, CSS3, JavaScript
 - **Tools**: Apache, Nginx, Jenkins, Jira, Confluence
 - **Data Science & Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Containers & Orchestration**: Docker, Kubernetes
-- **Others**: Postman, Swagger, RESTful Services
 
 ---
 
 ## Education
-- **PG-DAC**  
+> **PG-DAC**  
   Centre for Development of Advanced Computing (CDAC), Delhi | 2013  
-- **Bachelor of Computer Science Engineering**  
+
+> **Bachelor of Computer Science Engineering**  
   Maharshi Dayanand University, Haryana | 2012  
-- **High Secondary School (Science, Mathematics & Computer Science)**  
+
+> **High Secondary School (Science, Mathematics & Computer Science)**  
   Ebenezer Matriculation Higher Secondary School, Tamil Nadu | 2008  
 
 ---
