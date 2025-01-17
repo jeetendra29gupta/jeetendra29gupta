@@ -1,9 +1,8 @@
 # Jeetendra Gupta  
 **Python Backend & API Developer**  
 Gorakhpur, Uttar Pradesh, 273412  
-29th Nov 1988  
-[jeetendra29gupta@gmail.com](mailto:jeetendra29gupta@gmail.com)  
 +91 9555613730  
+[jeetendra29gupta@gmail.com](mailto:jeetendra29gupta@gmail.com)  
 [GitHub](https://github.com/jeetendra29gupta) | [LinkedIn](https://www.linkedin.com/in/jeetendra29gupta/)
 
 ---
