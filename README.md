@@ -84,7 +84,7 @@ With 9 years of experience as a Python backend developer, I have honed my skills
 - **Version Control**: Git (GitHub, Git Bash), SVN
 - **Authentication & Security**: JWT, OAuth2
 - **Operating Systems**: Linux (Redhat, CentOS, Ubuntu), Windows Desktop/Server
- **Web Technologies**: HTML5, CSS3, JavaScript, Bootstrap, ReactJS
+- **Web Technologies**: HTML5, CSS3, JavaScript, Bootstrap, ReactJS
 - **Tools**: Apache, Nginx, Jenkins, Jira, Confluence
 - **Data Science & Machine Learning**: Pandas, NumPy, Matplotlib, Scikit-learn
 - **Containers & Orchestration**: Docker, Kubernetes
