@@ -1,792 +1,355 @@
-# Jeetendra Gupta
+# JEETENDRA GUPTA
+**Senior Python Backend, API & Cloud Developer**
 
-**Senior Python API, Backend & Cloud Infrastructure Engineer**
-
-📍 Gorakhpur, Uttar Pradesh, 273412, India  
-📞 +91 9555613730  
-📧 jeetendra29gupta@gmail.com  
-🔗 [Portfolio](https://jeetendra29gupta.github.io/) | [LinkedIn](https://www.linkedin.com/in/jeetendra29gupta/) | [GitHub](https://github.com/jeetendra29gupta)
+📍 Gorakhpur, Uttar Pradesh, India &nbsp;|&nbsp; 📞 +91 9555613730 &nbsp;|&nbsp; ✉ jeetendra29gupta@gmail.com
+🔗 linkedin.com/in/jeetendra29gupta &nbsp;|&nbsp; 💻 github.com/jeetendra29gupta &nbsp;|&nbsp; 🌐 jeetendra29gupta.github.io
 
 ---
 
 ## Professional Summary
 
-Senior Backend Engineer with **9+ years of experience** specializing in building, debugging, and operating
-high-availability systems on AWS and GCP. Proven expertise in end-to-end ownership of production services from API and
-auth design down to database tuning and network configuration with a track record of reducing MTTR and improving system
-reliability.
+Senior Python Backend, API & Cloud Developer with 9 years of experience building production-grade backend systems across fintech, cloud infrastructure, environmental technology, e-commerce, and power sectors. Skilled at turning complex business requirements into practical technical solutions and building systems that stay reliable under real-world load.
 
-Throughout my career, I have contributed to **increasing revenue, enhancing security, improving system performance, and
-boosting user engagement**, all while reducing software release schedules, bugs, and operating expenses. Proficient in
-various software libraries and frameworks such as Flask, FastAPI, JavaScript, HTML, CSS, and microservices architecture.
+Experience spans backend API development, cloud automation, infrastructure monitoring, and large-scale data platforms. Built a monitoring platform for 1,800+ Paytm servers, automated GCP backup pipelines for 1,500+ virtual machines, and designed APIs for carbon credit platforms used by Indian government ministries — work where reliability, scalability, and data accuracy were non-negotiable.
 
-Specialized in designing resilient multi-cloud architectures, containerized microservices, serverless functions, SDG
-dashboards, carbon footprint engines, backup/snapshot lifecycle automation, and enterprise monitoring platforms.
-Proficient in Python/Flask/FastAPI, Terraform, Docker, Kubernetes, and a wide range of AWS/GCP/Azure services.
+Core stack: Python, Flask, FastAPI, REST APIs, PostgreSQL, Docker, GCP, and AWS. Focused on clean, maintainable, testable software that teams can confidently build on, with a strong emphasis on reliability, automation, and long-term maintainability.
 
 ---
 
 ## Technical Skills
 
-### Programming Languages
+**Languages:** Python, JavaScript, Shell / Bash, SQL
 
-| Skill        | Proficiency |
-|--------------|-------------|
-| Python       | Expert      |
-| JavaScript   | Expert      |
-| SQL          | Expert      |
-| Shell / Bash | Expert      |
+**Frameworks & Libraries:** Flask, FastAPI, SQLAlchemy, SQLModel, Pydantic, Behave (BDD), Jinja2, Pandas
 
-### Backend Frameworks & Libraries
+**Backend & APIs:** REST API, GraphQL, JWT, OAuth2, RBAC, Gunicorn, Uvicorn, Swagger / OpenAPI
 
-- Flask
-- FastAPI
-- SQLAlchemy ORM
-- SQLAlchemy CORE
-- SQLModel
-- Pydantic
-- Pandas
-- NumPy
+**Databases:** PostgreSQL, MySQL, MariaDB, MongoDB, Redis, SQLite3, DynamoDB, SAP HANA, Oracle, PostGIS
 
-### Cloud Platforms
+**Cloud:**
+- **AWS:** EC2, S3, Lambda, RDS, API Gateway, CloudWatch
+- **GCP:** Compute Engine, Cloud Storage, Cloud Functions
+- **Azure:** Blob Storage, REST APIs, HANA Backup
+- **STACKIT:** S3 Object Storage, IMDS Auth, RefreshableCredentials, boto3 / botocore
+- **IBM Cloud:** Object Storage, VPC Metadata API, Power Systems SDK, trusted-profile auth
 
-#### Amazon Web Services (AWS)
+**DevOps & CI/CD:** Docker, Kubernetes, Ansible, Jenkins, GitHub Actions, Nagios, OpenNMS, Nginx
 
-- EC2 (Elastic Compute Cloud)
-- ECS (Elastic Container Service)
-- S3 (Simple Storage Service)
-- Lambda (Serverless Functions)
-- API Gateway
-- CloudWatch (Monitoring)
+**Testing:** Pytest, Unittest, Behave BDD, Postman, Integration Testing
 
-#### Google Cloud Platform (GCP)
+**Monitoring & Debugging:** Prometheus, Grafana, Nagios, OpenNMS, Logging & Tracing, cProfile
 
-- Compute Engine
-- Cloud Storage
-- Cloud Functions
-- GCP SDK & gcloud CLI
+**Frontend & Visualization:** HTML, CSS, JavaScript, Chart.js, Leaflet.js, Google Charts
 
-#### Microsoft Azure
+**Tools & Platforms:** Git / GitHub, SVN, JIRA, Confluence, PyCharm, IntelliJ IDEA, VS Code, Linux (RHEL, CentOS, Ubuntu), Windows Server
 
-- App Services
-- Storage
+**Architecture & Concepts:** Microservices Architecture, Cloud-Native Applications, Automation Systems, Backup & Snapshot Management, Monitoring & Alerting, GIS & Remote Sensing
 
-### Infrastructure as Code
-
-- Ansible
-- Ansible Playbooks
-
-### DevOps & CI/CD
-
-- Docker
-- Jenkins
-- GitHub Actions
-- Git
-- SVN
-
-### Databases & Caching
-
-| Database   | Type            |
-|------------|-----------------|
-| PostgreSQL | Relational      |
-| MySQL      | Relational      |
-| MariaDB    | Relational      |
-| Oracle     | Relational      |
-| SQLite3    | Relational      |
-| SAP HANA   | In-Memory       |
-| Redis      | Key-Value Cache |
-| MongoDB    | NoSQL Document  |
-| DynamoDB   | NoSQL           |
-| PostGIS    | Geospatial      |
-
-### API Development & Security
-
-- REST APIs / RESTful Services
-- GraphQL
-- JWT (JSON Web Tokens)
-- OAuth2
-- RBAC (Role-Based Access Control)
-- Gunicorn / Uvicorn
-- Postman / Bruno
-- Swagger / OpenAPI
-
-### Monitoring & Debugging
-
-- Prometheus
-- Grafana
-- Nagios
-- OpenNMS
-- Python Debugger
-- cProfile
-- Logging & Tracing
-
-### Visualization & Frontend
-
-- Chart.js
-- Leaflet.js
-- Google Charts
-- HTML5
-- CSS3
-- JavaScript
-
-### Web Servers & Tools
-
-- Apache
-- Nginx
-- Jenkins
-- Jira
-- Confluence
-
-### Operating Systems
-
-- Linux (Ubuntu, CentOS, RedHat, RHEL 7/8)
-- Windows Desktop
-- Windows Server
-
-### Data Engineering
-
-- Data pipeline development
-- API integration
-- Data parsing / normalization
-- Log analysis
-- ETL processes
+**Data Formats:** JSON, XML, CSV
 
 ---
 
 ## Professional Experience
 
 ### Senior Python Backend & Cloud Developer
+**NTT Data Business Solutions**, Client: SAP Labs India Pvt. Ltd. &nbsp;|&nbsp; Jul 2024 – Present
 
-**NTT Data Business Solutions**  
-*July 2024 – Present*
-
-**Key Responsibilities:**
-
-- **Automated GCP File System Backup and Restore:** Developed Python automation snappy backup application to streamline
-  backup and restore
-  operations on Google Cloud Platform (GCP). Leveraged Python's subprocess module to execute Linux commands (e.g., `tar`
-  for file archiving, `df -h` for disk space monitoring) and using GCP SDK and gcloud CLI to perform storage operations,
-  significantly reducing manual intervention and improving
-  operational efficiency.
-
-- **Automated Snappy Agent Backup Testing:** Designed and implemented automated testing for Snappy Agent-based backup
-  and restore operations using the Python Behave Framework. Authored feature files and step definitions to ensure
-  comprehensive test coverage and validation of backup/restore processes, ensuring system reliability and robustness.
-
-- **Automated GCP VM Snapshot Management:** Developed Python application utilizing the GCP SDK and gcloud CLI to
-  automate
-  the creation, management, and deletion of virtual machine snapshots for both OS and data disks. Ensured timely and
-  consistent snapshots for data protection, disaster recovery, and seamless integration with broader cloud
-  infrastructure workflows.
-
-- **Snappy Detect System:** Developed a system to automatically detect the underlying cloud provider by analyzing
-  specific file paths and installed CLI tools. Enabled OS version detection to trigger OS-specific commands based on the
-  system environment. Incorporated detection of installed databases, services, and RPMs. Displayed results in a
-  user-friendly table format in the terminal, with an option to export data in JSON format.
-
-**Key Achievements:**
-
-- Orchestrated end-to-end automation for a fleet of **1500+ VMs across 20+ projects**, **eliminating 70% of manual
-  operational overhead**
-- Engineered a cost-optimized retention algorithm, **slashing cloud storage costs by 25% ($18K+ annually)**
-- Achieved **>90% test coverage** for Snappy Agent backups
-- **Decreased critical job failures from 15% to 0.2%** through event-driven infrastructure management
-- Created runbooks, documentation, and onboarding guides for Ops teams
-
----
+- Automated backup and restore for 1,500+ GCP VMs with Python (subprocess module and GCP CLI), replacing a manual, fragile process with an unattended nightly run and cutting manual overhead by roughly 70%.
+- Built a full BDD test suite for the Snappy Agent using Python Behave, taking backup coverage from near zero to 90%+ and reducing critical job failures from 15% to 0.2% within a single quarter.
+- Owned the GCP VM snapshot lifecycle across 20+ projects, automating creation, retention, and deletion through Python scripts using GCP SDK and gcloud CLI with no manual intervention.
+- Tightened over-broad storage retention policies, saving roughly $18K per year in GCP storage costs (a 25% reduction) with no impact on recovery capability.
+- Delivered the complete HANA backint backup, restore, and listing solution for STACKIT cloud from scratch, covering full, differential, incremental, and log backup types across both Scale-Up and Scale-Out HANA systems.
+- Fixed trusted-profile authentication for IBM Power Systems by auto-detecting server architecture at runtime with `platform.machine()` and routing to the correct metadata endpoint — working transparently across 1,800+ existing deployments with zero configuration changes.
+- Built FastAPI internal services consumed daily by 10+ engineering teams, with clean documentation and predictable behavior that let teams integrate without back-and-forth.
+- Mentor junior developers through code reviews focused on the reasoning behind decisions; several have gone on to lead their own features independently.
 
 ### Senior Python Backend Developer
+**Iora Ecological Trust**, Client: Iora Ecological Solutions Pvt. Ltd. &nbsp;|&nbsp; Oct 2023 – Jun 2024
 
-**Iora Ecological Solutions Pvt. Ltd.**  
-*October 2023 – June 2024*
-
-**Key Responsibilities:**
-
-- **SDG (Sustainable Development Goals) Monitoring Dashboard & Backend Service:** Developed a comprehensive SDG
-  Monitoring Dashboard and backend
-  services for the Assam state government, enabling real-time tracking of SDG progress across key sectors.
-
-- **Iora Ecological Trust Website Development & Maintenance:** Contributed to the design, development, and ongoing
-  maintenance of the Iora Ecological Trust website, improving public engagement and information accessibility on
-  ecological conservation efforts.
-
-- **SDG Technical Consultant for Jammu & Kashmir:** Provided expert technical consultation for SDG initiatives in
-  Jammu & Kashmir, including the design and proposal of a tailored SDG Dashboard to track and visualize key indicators.
-
-- **DRC Visualization Portal:** Built a detailed data visualization portal for the Democratic Republic of Congo (DRC),
-  showcasing key environmental data including streams, watersheds, water bodies, habitats, forests, and land use. Used
-  technologies such as Python, Flask, HTML, CSS, JavaScript, Chart.js, and Leaflet to create an interactive and
-  user-friendly interface.
-
-- **Digital Carbon Toolbox for IORA:** Developed the Digital Carbon Toolbox for IORA, enabling carbon emission
-  calculations for tree projects based on the Wildlife of India documents. Used Python, Flask, and PostgreSQL to build a
-  robust backend that supports carbon teams in assessing and reporting carbon footprints at specific locations.
-
-- **GCP-Portal Technical R&D for Green Credit Program:** Led technical assessments and contributed to the development of
-  the GCP-Portal for the Ministry of Parivahan Sewa. This portal enables carbon credit calculations for large
-  enterprises like Reliance, Tata, and others, helping streamline carbon footprint monitoring and reporting.
-
-- **SLMC Project Contribution:** Contributed to the Strengthening Landscape Management and Conservation (SLMC) project,
-  enhancing ecological landscape management for biodiversity and climate change mitigation. Developed remote sensing
-  data visualizations, mapping dashboards, and reporting tools using Leaflet and Chart.js.
-
-**Key Achievements:**
-
-- Automated geospatial data pipelines processing **10K+ environmental datasets**
-- Built infrastructure for SaaS applications supporting carbon credit calculations for **50+ enterprises**
-- Leveraged IaC principles through Ansible playbooks ensuring environment consistency
-- Built GIS portals using Leaflet, Chart.js, Flask, and PostGIS
-
----
+- Built the SDG Monitoring Dashboard and its full backend for the Assam state government, giving planners a real-time view of development progress across health, education, and environment.
+- Served as SDG Technical Consultant for Jammu and Kashmir, working directly with government stakeholders to scope and design a dashboard surfacing indicators that informed policy decisions.
+- Developed the Digital Carbon Toolbox in Python, Flask, and PostgreSQL to calculate carbon emissions for tree projects using Wildlife of India scientific datasets, used directly by carbon teams for field reporting.
+- Built the DRC Visualisation Portal for the Democratic Republic of Congo, rendering environmental layers — watersheds, habitats, forests, and land use — through Leaflet and Chart.js on a Python and Flask backend.
+- Led technical R&D for India's Ministry of Parivahan Sewa carbon credit platform, enabling large enterprises including Reliance and Tata to calculate and report carbon credits through the GCP-Portal.
+- Contributed to the SLMC biodiversity project, building remote sensing visualisations and mapping dashboards used by field teams for daily ecological decision-making.
 
 ### Python Backend Developer
+**Jindal India Thermal Power Ltd.**, Client: Amala Earth Private Limited &nbsp;|&nbsp; Feb 2023 – Oct 2023
 
-**Jindal India Thermal Power Ltd**  
-*February 2023 – October 2023*
+- Designed and built RESTful APIs in Flask and FastAPI, including a SAP HANA Data Layer API with role-based access control that restricted each user group to exactly the data it was permitted to query.
+- Set up automated CI/CD pipelines that cut deployment time by 35%, replacing manual, inconsistent deployments that had caused frequent release-time issues.
+- Used Ansible for preventive maintenance, system upgrades, and server configuration management, turning stressful production deployments into a routine, predictable process.
+- Built reporting modules in HTML, CSS, and JavaScript for plant engineers, prioritising clarity for non-developer end users.
+- Ran code reviews, mentored junior team members, and drove consistent API design standards that made cross-team integrations noticeably smoother.
 
-**Key Responsibilities:**
+### Senior Software Developer
+**Infinite Computer Solutions**, Client: Nokia Solutions and Networks India Private Limited &nbsp;|&nbsp; Jan 2022 – Feb 2023
 
-- **Backend Development & API Design:** Designed and developed robust RESTful APIs using Python frameworks such as Flask
-  and FastAPI, ensuring efficient integration with front-end systems and third-party services.
-
-- **Web Development:** Built and maintained dynamic reporting modules using HTML, CSS, and JavaScript to deliver
-  intuitive user interfaces and enhance user experience.
-
-- **Code Review & Debugging:** Conducted thorough code reviews to ensure adherence to coding standards and best
-  practices. Proactively identified and debugged issues, ensuring timely resolution and maintaining code quality.
-
-- **Automated Build & Deployment Pipelines:** Supervised and implemented automated build and deployment pipelines using
-  CI/CD tools (Jenkins), streamlining application deployment processes and reducing manual intervention.
-
-- **System & Network Optimization:** Enhanced network, system, and data availability by applying preventive maintenance,
-  system upgrades, and server configurations using Ansible. Improved the stability and integrity of production
-  environments.
-
-- **Team Collaboration & Leadership:** Worked closely with cross-functional teams to identify technical challenges,
-  propose solutions, and implement improvements. Played a key role in mentoring junior developers and fostering
-  collaboration within the team.
-
-- **Best Practices Implementation:** Championed the use of industry best practices for back-end development, API design,
-  and deployment, ensuring the team adhered to scalable, maintainable, and efficient coding standards.
-
-**Key Achievements:**
-
-- **Reduced deployment time by 35%** through CI/CD automation
-- **Improved third-party service integration efficiency by 40%**
-- Enhanced system stability through automated server configurations
-- Mentored junior developers ensuring adherence to coding standards
-
----
-
-### Senior Software Developer (Python Backend & Automation)
-
-**Infinite Computer Solutions (Nokia)**  
-*January 2022 – February 2023*
-
-**Key Responsibilities:**
-
-- **Application Development & Monitoring Tools:** Developed Python-based applications, monitoring tools, and reporting
-  modules to automate processes, improve system efficiency, and support decision-making.
-
-- **Team Training & Mentorship:** Trained and mentored **5+ new developers** on company coding standards, design
-  patterns, and CI/CD best practices. Fostered a collaborative learning environment to help improve team productivity
-  and code quality.
-
-- **Bug Fixing & Debugging:** Monitored program operations, identified logic and coding errors, and efficiently
-  diagnosed and rectified issues to ensure continuous, smooth application performance.
-
-- **Client Engagement & Feedback Integration:** Worked directly with clients to discuss project progress, gather
-  feedback at key stages, and address concerns, ensuring that deliverables met client expectations and project
-  timelines.
-
-- **Collaboration with Engineers:** Partnered with cross-functional engineering teams to evaluate and integrate software
-  and hardware interfaces, ensuring compatibility and optimizing overall system performance.
-
-- **Technical Documentation:** Created and maintained detailed technical documentation, workflows, and knowledge-sharing
-  materials to onboard new team members and facilitate knowledge transfer within the team.
-
-**Key Achievements:**
-
-- **Reduced downtime by 20%** through automated system health checks
-- Trained and mentored **5+ new developers**
-- Engineered Ansible playbooks for environment consistency
-- Developed Nokia IMPACT 21/22 custom reporting modules with real-time analytics
-
----
+- Built custom Python reporting modules for Nokia IMPACT 21/22 that let the client run their own SQL queries and view results in real time, eliminating the previous ticket-and-wait cycle for custom reports.
+- Deployed Nokia IMPACT 21/22, MariaDB, and Nagios across multiple hosts using Ansible Playbooks, reducing system downtime by 20% through consistent, repeatable configurations.
+- Developed monitoring tools with automatic email escalation on threshold breaches, freeing engineers from constant dashboard watching and reducing mean time to detect (MTTD) by 40%.
+- Onboarded several new developers with proper documentation and hands-on ramp-up support through their early weeks.
+- Recognised with Best Performer of the Month (September 2022) and the Spark Award (Q2 2022) for outstanding delivery and client satisfaction.
 
 ### Software Developer
+**One97 Communications Ltd. (Paytm)**, Client: Paytm Payment Services Limited &nbsp;|&nbsp; May 2016 – Jan 2022
 
-**One97 Communications Ltd (PayTM)**  
-*May 2016 – January 2022*
-
-**Key Responsibilities:**
-
-- **Application Development & Server Monitoring:** Developed an in-house Python application to monitor **1,800+ servers
-  ** and track hardware inventory, improving system monitoring and management efficiency.
-
-- **Collaboration with Cross-Functional Teams:** Worked closely with software development, product, and UAT testing
-  teams to design and implement Python-based solutions that met client requirements for functionality, scalability, and
-  performance.
-
-- **Client & Stakeholder Communication:** Engaged with management, internal teams, and external development partners to
-  provide updates on software application status, design progress, and project milestones, ensuring alignment with
-  project goals and timelines.
-
-- **Codebase Modernization:** Led efforts to upgrade legacy codebases to modern Python development standards, enhancing
-  system functionality, reducing technical debt, and improving maintainability.
-
-- **API Development & Optimization:** Developed resilient, scalable, and modular APIs using Python, ensuring efficient
-  integration with other systems and services while optimizing for performance and reliability.
-
-- **Monitoring Integration:** Integrated Nagios & OpenNMS for real-time monitoring and alerts, contributing to swift
-  issue resolution and minimized downtime.
-
-**Key Achievements:**
-
-- Architected monitoring application for **1,800+ servers**
-- **Reduced system downtime by 30%**
-- **Saved 20+ engineering hours per month** on manual checks
-- **Reduced bugs by 50%** through codebase modernization
-- Automated hardware inventory tracking improving data accuracy
-
----
+- Built EGL, an internal server monitoring panel tracking 1,800+ production servers using Nagios and OpenNMS, which became a daily-relied-upon tool for the operations team over nearly six years as the platform scaled into one of India's largest payment companies.
+- Automated hardware inventory tracking and real-time critical event alerting across the server fleet, contributing directly to a 30% reduction in production downtime over the following year.
+- Developed internal Flask REST APIs for operational dashboards used daily by 200+ engineers and operations staff, kept simple and well documented for the many teams that depended on them.
+- Led a codebase modernisation effort, upgrading several legacy Python services to current standards and reducing technical debt across the team.
+- Partnered closely with product, UAT, and development teams on scoping and delivery, translating vague requirements into buildable, maintainable solutions.
 
 ### Network Support Engineer
+**Accel Frontline Services Ltd.**, Client: Timex Group India Limited &nbsp;|&nbsp; Jul 2014 – May 2016
 
-**Accel Frontline Services Ltd**  
-*July 2014 – May 2016*
-
-**Key Responsibilities:**
-
-- **Network & Server Installation:** Installed and configured network hubs, web servers, and storage servers, ensuring
-  seamless integration and reliable system performance across the network infrastructure.
-
-- **Task Automation & Reporting:** Automated routine tasks using custom Python scripts, improving efficiency. Managed
-  and shared reports generated from databases, providing valuable insights to stakeholders and ensuring data
-  accessibility.
-
-- **Post-Mortem Analysis & Documentation:** Prepared detailed post-mortem documentation for network system failures,
-  analyzing root causes and outlining repair and restoration efforts to prevent future issues.
-
-- **Network Troubleshooting & Issue Resolution:** Diagnosed and resolved network issues related to hardware, software,
-  power, and communication failures, ensuring minimal downtime and maintaining optimal network performance.
-
-- **Wireless Network Configuration & Support:** Assisted users in setting up and configuring wireless bridge networks
-  and systems, improving network accessibility and connectivity for end-users.
+- Handled installation and configuration of network hubs, web servers, and storage servers, maintaining SLA compliance above 95%.
+- Wrote Python scripts to automate repetitive reporting tasks, freeing up meaningful team time and sparking a lasting interest in automation.
+- Prepared thorough post-mortems for network failures, establishing a habit of documenting root causes and fixes.
+- Diagnosed and resolved issues across hardware, software, and connectivity, building a strong bottom-up understanding of systems.
 
 ---
 
-## Projects
+## Key Projects
+
+### SAP Data Layer API Development
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, FastAPI, SAP HANA, OAuth2, RBAC*
+
+- Designed role-based APIs over SAP HANA that restricted each user group to authorised data, enforcing access control at the API layer rather than the database alone for stronger protection.
+- Tuned queries for large-scale datasets, noticeably reducing latency on high-volume data access used daily by multiple SAP engineering teams.
+- Kept the API design clean and Swagger documentation thorough, enabling teams to integrate without repeated support.
+
+### Automated GCP VM Snapshot Lifecycle Management
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, GCP SDK, gcloud CLI*
+
+- Automated VM snapshot creation, retention enforcement, and deletion across the entire GCP fleet in Python, removing all manual triggering.
+- Tightened previously over-broad retention policies, cutting storage costs by roughly 25% with no impact on recovery capability.
+- Added error handling and alerting so failed snapshot jobs are flagged immediately rather than discovered hours later during an incident.
+
+### Snappy Agent-Based File System Backup Testing
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, Behave (BDD), CI/CD*
+
+- Built a full BDD test suite in Python Behave covering backup, restore, and edge-case scenarios end to end, starting from essentially zero coverage.
+- Authored feature files and step definitions broad enough to catch regressions in core backup paths automatically before they reach production.
+- Cut the manual testing cycle significantly by moving hours of repetitive scenario testing into CI on every push.
+
+### STACKIT Cloud HANA Backup, Restore & Log Monitoring
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, boto3, botocore, STACKIT IMDS Auth, RefreshableCredentials, S3 Object Storage, SAP HANA, ne.db-hdbbackint, Behave BDD*
+
+- Delivered the complete HANA backint backup, restore, and listing solution for STACKIT cloud from scratch, covering full, differential, incremental, and log backup types across both Scale-Up and Scale-Out HANA systems.
+- Implemented STACKIT IMDS-based service account authentication with botocore RefreshableCredentials for automatic token refresh during long-running backups, resolving silent mid-backup failures on jobs running over an hour.
+- Diagnosed and fixed multiple backup-listing bugs, including incorrect S3 key prefixes, a PartSizeMB value exceeding S3 multipart limits, and a vendor issue in ne.db-hdbbackint v0.8.2 that required a `--backintVersion` workaround.
+- Integrated HANA log backup reporting and monitoring into Octobus and TIC eventing, and registered STACKIT detector classes in snappy-detect for discoverability by the agent framework.
 
-### 1. Snappy Detect (Cloud Provider Detection System)
+### IBM Power Systems Trusted-Profile Auth & NFS Backup Enhancement
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, IBM Cloud Metadata API, IBM VPC API, IBM Power Systems SDK, platform.machine(), snappy-agent CLI*
+
+- Fixed trusted-profile authentication for IBM Power Systems by auto-detecting server architecture at runtime with `platform.machine()` and routing to the correct metadata endpoint, working transparently across 1,800+ existing deployments with zero configuration file changes.
+- Added an `--include-nfs` option to snappy-agent for IBM and ACS providers, enabling ad-hoc NFS filesystem backups from the CLI, matching the capability GCP users already had.
+
+### GCP NFS Backup Monitoring & Event Reporting
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, GCP GCFS, Octobus, TIC, APScheduler, File-based Caching*
+
+- Moved GCP GCFS NFS backup monitoring from the FS backup script layer into the snappy-backup feature framework so it emits correctly typed NFS events to Octobus and TIC instead of mislabeled filesystem events.
+- Added a 12-hour result cache to prevent duplicate monitoring runs and a 24-hour notify gate limiting Octobus to one success notification per day, while keeping failure notifications on every cycle so nothing is missed.
+- Implemented an APScheduler cron job inside snappy-agent that runs NFS monitoring on an independent schedule, decoupled from FS backup execution and controlled by a single config flag with no agent restart required.
+
+### GCP File System Backup & Restore Automation
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, GCP CLI, Subprocess, Cloud Storage*
+
+- Rewrote a manual, fragile GCP backup and restore process in Python using subprocess and GCP CLI calls, now running unattended on schedule with no manual involvement.
+- Integrated GCP Cloud Storage to make disaster recovery workflows reliable and repeatable across the environment rather than dependent on the on-call engineer.
+- Replaced a set of scripts that required constant babysitting, noticeably improving operational efficiency.
+
+### Snappy Detect (Cloud Provider Detection System)
+**NTT Data Business Solutions (Client: SAP Labs India Pvt. Ltd.)**
+*Python, Shell, JSON, Terminal & Crontab*
+
+- Built automatic cloud provider detection by analyzing file paths and installed CLI tools, with OS version detection to trigger OS-specific commands.
+- Added detection of installed databases, services, and RPMs, presenting results in a readable terminal table with JSON export.
+- Improved operational efficiency across multi-cloud environments.
+
+### SDG Monitoring Dashboard & Backend Services
+**Iora Ecological Trust (Client: Assam State Government)**
+*Python, Flask, PostgreSQL, Leaflet, Chart.js*
+
+- Built the full backend for the Assam Government's SDG tracking platform, giving planners live progress across health, education, and environment indicators without waiting for manually compiled reports.
+- Developed the REST APIs and data aggregation layer, consolidating multiple government data sources into a single consistent view for state-level planning decisions.
+- Delivered complex data to non-technical decision makers in a form they could act on directly.
+
+### SDG Technical Consultant (Jammu & Kashmir State Government)
+**Iora Ecological Trust**
+*Azure, SQL Server, Python, Flask*
+
+- Advised government stakeholders on system architecture and data visualization strategy.
+- Designed the SDG Dashboard to track environmental, social, and economic indicators with real-time data feeds.
+- Built a multi-cloud architecture on Azure, SQL Server, and Flask for scalable IaC deployment.
+- Enabled tracking of 15+ SDG indicators and reduced infrastructure costs by 25% through optimization.
 
-**Tech Stack:** Python, Shell, JSON, Terminal & Crontab
+### Digital Carbon Toolbox (Carbon Emission Calculator)
+**Iora Ecological Trust (Client: India's Ministry of Parivahan Sewa)**
+*Python, Flask, PostgreSQL, AWS*
 
-**Overview:** Developed a system to automatically detect the underlying cloud provider and system configuration for
-multi-cloud environments.
+- Built backend services that calculate carbon emissions for tree projects using Wildlife of India scientific datasets, with calculation logic accurate enough to withstand government scrutiny.
+- Integrated emission data into existing system APIs so carbon teams could generate reports without switching tools or running separate processes.
+- Designed the output and workflow for non-technical carbon field workers, requiring no training to use.
 
-**Responsibilities:**
-
-- Built automatic detection of cloud provider by analyzing file paths and installed CLI tools
-- Enabled OS version detection to trigger OS-specific commands
-- Incorporated detection of installed databases, services, and RPMs
-- Displayed results in user-friendly table format in terminal
-- Added option to export data in JSON format
-- Improved operational efficiency for multi-cloud environments
-
----
-
-### 2. SAP Data Layer API Development
-
-**Tech Stack:** Python, FastAPI, SAP HANA, OAuth2/JWT
-
-**Overview:** Developed secure, role-based API access to SAP HANA datasets.
-
-**Responsibilities:**
-
-- Developed RBAC-enabled APIs using FastAPI
-- Optimized SAP HANA queries for performance
-- Implemented OAuth2/JWT security
-- Reduced latency and improved data access reliability
-
----
-
-### 3. Automated GCP VM Snapshot Lifecycle Management
-
-**Tech Stack:** Python, GCP SDK, gcloud CLI
-
-**Overview:** Large-scale VM snapshot automation across multi-project GCP environments.
-
-**Responsibilities:**
-
-- Automated VM snapshot creation, retention, and cleanup
-- Implemented cost-optimized retention policies
-- Added monitoring, alerting, and audit reporting
-- Improved DR readiness and compliance
-
----
-
-### 4. Snappy Agent Backup & Restore Testing Automation
-
-**Tech Stack:** Python, Behave (BDD), CI/CD
-
-**Overview:** BDD-based automated testing framework for backup validation.
-
-**Responsibilities:**
-
-- Built Behave-based BDD automation framework
-- Authored reusable feature files and step definitions
-- Automated edge cases, failure scenarios, and recovery validation
-- Integrated automation into CI/CD pipelines
-- Reduced testing cycle time by ~70%
-
----
-
-### 5. GCP File System Backup & Restore Automation
-
-**Tech Stack:** Python, GCP SDK, gcloud CLI, Cloud Storage
-
-**Overview:** Enterprise-grade automated backup and restore platform for GCP workloads.
-
-**Responsibilities:**
-
-- Designed automated GCP backup and restore workflows using Python, GCP SDK and gcloud CLI
-- Implemented retention policies, versioning, and disaster recovery workflows
-- Integrated Cloud Storage for secure archival and restore validation
-- Added logging, alerts, retry, rollback, and audit trails
-- Reduced manual intervention and operational errors
-
----
-
-### 6. Flower and Butterfly GIS Data Collector
-
-**Tech Stack:** KoboToolbox, ODK, Python, Pandas, PostgreSQL, Mobile Data Collection
-
-**Overview:** Mobile GIS data collection application for field researchers to gather geotagged biodiversity data.
-
-**Responsibilities:**
-
-- Built mobile data collection forms using KoboToolbox and ODK for offline field capture
-- Automated data sync pipelines to centralized PostgreSQL database
-- Developed Python/Pandas scripts for data cleaning and species analysis
-- Enabled GIS data collection from 250+ field researchers; reduced errors by 60%
-
----
-
-### 7. SDG Technical Consultant (Jammu & Kashmir State Government)
-
-**Tech Stack:** Azure, SQL Server, Python, Flask
-
-**Overview:** Technical consultancy for SDG tracking and custom dashboard design for state-level sustainability metrics.
-
-**Responsibilities:**
-
-- Advised government stakeholders on system architecture and data visualization strategies
-- Designed SDG Dashboard to track environmental, social, and economic indicators with real-time data feeds
-- Built multi-cloud architecture using Azure, SQL Server and Flask for scalable IaC deployment
-- Enabled tracking of 15+ SDG indicators; reduced infrastructure costs by 25% through optimization
-
----
-
-### 8. GCP-Portal for Green Credit Program
-
-**Tech Stack:** Python, Flask, PostgreSQL, GCP
-
-**Overview:** Led technical R&D for the Green Credit Program portal for the Ministry of Parivahan Sewa.
-
-**Responsibilities:**
-
-- Led technical assessments and contributed to portal development
-- Enabled carbon credit calculations for large enterprises (Reliance, Tata, etc.)
-- Streamlined carbon footprint monitoring and reporting
-- Built robust backend supporting enterprise-scale calculations
-
----
-
-### 9. SLMC Project - Landscape Management & Conservation
-
-**Tech Stack:** Python, Leaflet, Chart.js, Flask
-
-**Overview:** Contributed to the Strengthening Landscape Management and Conservation project.
-
-**Responsibilities:**
-
-- Enhanced ecological landscape management for biodiversity and climate change mitigation
-- Developed remote sensing data visualizations
-- Built mapping dashboards and reporting tools
-- Assisted in decision-making and project tracking using Leaflet and Chart.js
-
----
-
-### 10. SDG Monitoring Dashboard (Assam State Government)
-
-**Tech Stack:** Python, Flask, PostgreSQL, Leaflet
-
-**Overview:** Real-time SDG tracking platform for state governments.
-
-**Responsibilities:**
-
-- Built real-time SDG dashboards with interactive district maps
-- Developed REST APIs for data aggregation
-- Improved transparency and planning decisions
-
----
-
-### 11. Green Credit Program Portal (Azure)
-
-**Tech Stack:** Azure, Microsoft SQL, FastAPI
-
-**Overview:** Secure multi-tenant carbon credit calculation platform.
-
-**Responsibilities:**
-
-- Built cloud portal for enterprise carbon credit calculations
-- Provisioned the Carbon Credit Database using Azure Microsoft SQL
-- Implemented JWT and RBAC security
-
----
-
-### 12. Digital Carbon Toolbox (SaaS)
-
-**Tech Stack:** Python, Flask, PostgreSQL, AWS
-
-**Overview:** Carbon emission calculation engine for enterprise sustainability.
-
-**Responsibilities:**
-
-- Developed backend services for carbon calculations
-- Integrated scientific datasets for accuracy
-- Deployed scalable SaaS architecture on AWS
-
----
-
-### 13. DRC Data Visualization & GIS Portal
-
-**Tech Stack:** Flask, PostGIS, Leaflet, Chart.js
-
-**Overview:** Interactive geospatial visualization platform for conservation.
-
-**Responsibilities:**
-
-- Built GIS dashboards with map layers and analytics
-- Visualized watersheds, forests, and land-use data
-- Enabled data-driven ecological decisions
-
----
-
-### 14. Remote Sensing & Mapping Services (Bioeconomy)
-
-**Tech Stack:** Python, Flask, PostGIS, Leaflet, Chart.js
-
-**Overview:** Geospatial data services for land use and biodiversity mapping in DRC.
-
-**Responsibilities:**
-
-- Set up GIS servers using PostGIS and PostgreSQL for geospatial data management
-- Developed Python Flask web application to visualize geospatial data
-- Built mapping dashboards to visualize land use and ecosystem metrics
-- Delivered actionable insights for biodiversity & conservation planning
-
----
-
-### 15. Shopify & Uni-commerce Integration
-
-**Tech Stack:** Python, FastAPI, JWT, PostgreSQL
-
-**Overview:** Secure marketplace integration for order and inventory sync.
-
-**Responsibilities:**
-
-- Developed FastAPI microservices for order sync
-- Implemented JWT-based authentication
-- Automated inventory, payments, and shipment flows
-
----
-
-### 16. Amala Earth Finance Module
-
-**Tech Stack:** Python, Pandas, Flask, PostgreSQL
-
-**Overview:** Automated finance module for seller payment calculations.
-
-**Responsibilities:**
-
-- Developed Python-based module to automate seller payment calculations
-- Integrated module with existing business logic for detailed financial reports
-- Used Pandas to automate Excel report generation for reconciliation
-- Reduced manual errors and streamlined financial processes
-
----
-
-### 17. Nokia IMPACT 21/22 Custom Reporting & Monitoring
-
-**Tech Stack:** Python, MariaDB, Oracle, Ansible, Nagios
-
-**Overview:** Enterprise reporting and monitoring system for Nokia telecom platforms.
-
-**Responsibilities:**
-
-- Developed custom reporting modules for client-specific SQL queries enabling real-time analytics
-- Automated system monitoring with Python scripts and Nagios integrations
-- Deployed MariaDB and Oracle instances across multiple hosts using Ansible Playbooks
-- Enhanced reporting capabilities and optimized system performance through proactive monitoring
-
----
-
-### 18. OpenNMS Push-Agent & Agent-Less Monitoring
-
-**Tech Stack:** Python, Flask, OpenNMS, XML, Psutil, Google Charts
-
-**Overview:** Hybrid monitoring solution for enterprise servers.
-
-**Responsibilities:**
-
-- Developed push-agent tool to collect system metrics (CPU, memory, disk, network) every 5 minutes
-- Built agent-less tool to remotely gather server metrics and push to OpenNMS in XML format
-- Integrated OpenNMS to convert XML data into RRD metrics for time-series storage
-- Designed Flask-based dashboard with Google Charts for interactive visualization
-
----
-
-### 19. Docker Duck (Docker Monitoring Tool)
-
-**Tech Stack:** Python, Shell, Docker, PostgreSQL, Google Graph API, Email Alerts
-
-**Overview:** Container monitoring and alerting platform.
-
-**Responsibilities:**
-
-- Tracked container status, performance and health metrics
-- Visualized telemetry using Google Graph API
-- Added email alerts for anomalies
-
----
-
-### 20. PayTM Server Monitoring Platform
-
-**Tech Stack:** Python, Flask, Nagios, OpenNMS
-
-**Overview:** Monitoring platform for 1,800+ production servers.
-
-**Responsibilities:**
-
-- Built Python-based server monitoring agents
-- Integrated Nagios & OpenNMS for alerts
-- Reduced downtime by ~30%
+### GCP-Portal for Green Credit Program
+**Iora Ecological Trust (Client: India's Ministry of Parivahan Sewa)**
+*Python, Flask, PostgreSQL, GCP*
+
+- Led technical assessments and contributed to portal development.
+- Enabled carbon credit calculations for large enterprises including Reliance and Tata.
+- Streamlined carbon footprint monitoring and reporting on a robust backend supporting enterprise-scale calculations.
+
+### Green Credit Program Portal (Azure)
+**Iora Ecological Trust**
+*Azure, Microsoft SQL, FastAPI*
+
+- Built a cloud portal for enterprise carbon credit calculations.
+- Provisioned the Carbon Credit Database on Azure Microsoft SQL.
+- Implemented JWT and RBAC security.
+
+### Remote Sensing & Mapping Services (Bioeconomy Project, DRC)
+**Iora Ecological Trust (Client: Iora Ecological Solutions Pvt. Ltd.)**
+*Python, Flask, PostGIS, Leaflet, Chart.js*
+
+- Set up PostGIS-backed GIS servers to manage geospatial data for the DRC bioeconomy project, covering land use, watershed boundaries, habitats, and forest cover across large geographic areas.
+- Built Leaflet-based mapping dashboards for field teams and analysts to visualise ecosystem metrics interactively instead of working from raw data exports.
+- Fed the resulting insights directly into biodiversity and conservation planning for one of the world's largest tropical forest regions.
+
+### DRC Data Visualization & GIS Portal
+**Iora Ecological Trust**
+*Flask, PostGIS, Leaflet, Chart.js*
+
+- Built GIS dashboards with map layers and analytics, visualizing watersheds, forests, and land-use data.
+- Enabled data-driven ecological decisions for conservation planning.
+
+### SLMC Project — Landscape Management & Conservation
+**Iora Ecological Trust**
+*Python, Leaflet, Chart.js, Flask*
+
+- Enhanced ecological landscape management for biodiversity and climate change mitigation.
+- Developed remote sensing data visualizations, mapping dashboards, and reporting tools.
+- Supported decision-making and project tracking using Leaflet and Chart.js.
+
+### Flower and Butterfly GIS Data Collector
+**Iora Ecological Trust**
+*KoboToolbox, ODK, Python, Pandas, PostgreSQL, Mobile Data Collection*
+
+- Built mobile data collection forms in KoboToolbox and ODK for offline field capture.
+- Automated data sync pipelines to a centralized PostgreSQL database.
+- Developed Python and Pandas scripts for data cleaning and species analysis.
+- Enabled GIS data collection from 250+ field researchers and reduced errors by 60%.
+
+### Amala Earth Finance Module
+**Jindal India Thermal Power Ltd. (Client: Amala Earth Private Limited)**
+*Python, Pandas, Flask, PostgreSQL*
+
+- Automated seller payout calculations from delivery reports, replacing a slow, error-prone manual month-end process with consistent, repeatable results.
+- Integrated the finance logic into existing system APIs so payout data flows through the same pipeline as everything else, with no separate process to maintain.
+- Used Pandas to generate Excel reconciliation reports the finance team could hand directly to auditors without reformatting.
+
+### Shopify & Unicommerce Marketplace Integration
+**Jindal India Thermal Power Ltd. (Client: Amala Earth Private Limited)**
+*Python, FastAPI, JWT, PostgreSQL, REST APIs*
+
+- Built the backend API layer that keeps product, order, inventory, and shipment data in sync between Shopify and Unicommerce in real time, replacing a process that had needed regular manual intervention to stay consistent.
+- Built in JWT-based authentication throughout; the system has run reliably with minimal maintenance since launch.
+
+### Nokia IMPACT 21/22 Custom Reporting & Monitoring
+**Infinite Computer Solutions (Client: Nokia Solutions and Networks India Private Limited)**
+*Python, MariaDB, Oracle, Ansible, Nagios*
+
+- Built custom Python reporting modules for Nokia IMPACT 21/22 enabling the client to run their own SQL queries with real-time results, eliminating the previous multi-day manual report request cycle.
+- Automated system monitoring with Python scripts and Nagios integrations, sustaining high availability without constant dashboard watching.
+- Deployed MariaDB and Oracle instances across multiple hosts using Ansible Playbooks, making rollouts repeatable and cutting setup time significantly versus manual installation.
+- Optimised slow queries and tuned system performance proactively, improving reporting speed and reducing database host load during peak usage.
+
+### OpenNMS Push-Agent & Agent-Less Monitoring Tool
+**One97 Communications Ltd. (Client: Paytm Payment Services Limited)**
+*Python, Flask, XML, OpenNMS, PostgreSQL, Psutil, Google Charts*
+
+- Built two complementary monitoring tools: a push-agent collecting CPU, memory, disk, and network metrics every 5 minutes and pushing them to OpenNMS in XML, and an agent-less version doing the same remotely with nothing installed on target servers.
+- Integrated OpenNMS to convert incoming XML into RRD time-series metrics, enabling consistent long-term performance trending across the server fleet.
+- Built a Flask dashboard with Google Charts for an interactive performance view without querying OpenNMS directly.
+
+### Docker Duck, Container Health Monitor
+**One97 Communications Ltd. (Client: Paytm Payment Services Limited)**
+*Python, Shell, PostgreSQL, Google Graph API, Docker*
+
+- Built a container health and performance monitor that stores metrics in PostgreSQL, visualises them through Google Graph API, and sends email alerts on anomalies, closing a gap where container issues were only caught after they broke.
+- Shifted container monitoring from reactive to proactive, alerting the team before failures reached users.
+
+### PayTM Server Monitoring Panel (EGL)
+**One97 Communications Ltd. (Client: Paytm Payment Services Limited)**
+*Python, Flask, Nagios, OpenNMS, PostgreSQL*
+
+- Built a single trusted monitoring view for 1,800 production servers, handling automated hardware inventory, real-time health checks, and critical event alerting.
+- Established the panel as a core internal tool; the 30% drop in production downtime that followed came directly from teams catching issues before they escalated into incidents.
+
+### Automated MIS Reporting System
+**Accel Frontline Services Ltd. (Client: Timex Group India Limited)**
+*Shell, Batch and PowerShell Script, SMS API, Windows Management Instrumentation, CSV, Text Processing*
+
+- Built shell, batch, and PowerShell scripts using Windows Management Instrumentation to automatically collect system, hardware, and operational data across multiple machines, formatting it into structured MIS reports delivered to the HOD.
+- Set up threshold-based alerting that fired an SMS notification via SMS API to the right person whenever a tracked metric crossed its limit, requiring no manual monitoring.
+- Converted a daily manual reporting routine into a fully scheduled, zero-touch process with immediately visible time savings.
+- Covered uptime, disk usage, memory utilisation, and network health, giving management a consistent daily snapshot of IT infrastructure.
 
 ---
 
 ## Education
 
 ### Post Graduate Diploma in Advanced Computing (PG-DAC)
-
-**Centre for Development of Advanced Computing (CDAC), Delhi**  
-*2013*
-
-- Focus on software development, databases, and system programming
-- Advanced computing concepts and practical applications
-
----
+**Centre for Development of Advanced Computing (C-DAC)**, Delhi, India &nbsp;|&nbsp; 2013
+Focused on software development, databases, and system programming.
 
 ### Bachelor of Technology in Computer Science Engineering
+**Maharshi Dayanand University (MDU)**, Haryana, India &nbsp;|&nbsp; 2012
+Core computer science coursework: Data Structures, Algorithms, Databases, Operating Systems, and Software Engineering.
 
-**Maharshi Dayanand University, Haryana**  
-*2012*
-
-- Core computer science topics: Data Structures, Algorithms, Databases, Operating Systems, and Software Engineering
-- Strong foundation in programming and system design
-
----
-
-### Higher Secondary School (Science, Mathematics & Computer Science)
-
-**Ebenezer Matriculation Higher Secondary School, Tamil Nadu**  
-*2008*
-
-- Science, Mathematics & Computer Science focus
-- Built foundation in logical problem solving and programming basics
+### Higher Secondary, Science, Mathematics and Computer Science
+**Ebenezer Matriculation Higher Secondary School**, Tamil Nadu, India &nbsp;|&nbsp; 2008
+Science, Mathematics, and Computer Science focus, building a foundation in logical problem-solving and programming basics.
 
 ---
 
 ## Certifications
 
-| Certification                        | Issuing Organization                      |
-|--------------------------------------|-------------------------------------------|
-| Infinite Cloud Computing Foundations | AWS, GCP, Azure                           |
-| Certified Kubernetes Professional    | Infinite Certified Kubernetes Association |
-| Red Hat Certified                    | Linux System Administration (RHEL 7/8)    |
-| IBM DB2 Certification                | Database Management                       |
+- **Certified Kubernetes Professional**, Infinite Certified Kubernetes Association
+- **Cloud Foundations (AWS, GCP and Azure)**, Infinite Cloud Foundation
+- **Red Hat Certified System Administrator**, Red Hat Enterprise Linux 7 and 8
+- **DB2 Database Management and Optimisation**, IBM, 3-month programme
 
 ---
 
-## Industrial Training & Internships
+## Industrial Training & Internships (2012–2014)
 
-| Training/Internship     | Organization                   | Duration | Focus Area                                      |
-|-------------------------|--------------------------------|----------|-------------------------------------------------|
-| DB2 Training            | IBM                            | 3 months | Database management and optimization techniques |
-| HTML & Web Fundamentals | Oxford Computer Academy        | 6 weeks  | Front-end development fundamentals              |
-| Java Training           | Informatics Computer Education | 4 weeks  | Object-oriented programming (OOP) concepts      |
-| Java Internship         | J.K Technologies Pvt. Ltd.     | 6 weeks  | Hands-on Java development                       |
-| PHP & PHP++ Training    | MultiSoft Systems              | 6 months | Server-side scripting, dynamic web development  |
-| PHP Internship          | Matrix Infosys                 | 3 months | Web application development                     |
+- **IBM DB2:** 3-month database management & optimization training
+- **HTML & Web Fundamentals:** 6-week front-end development training (Oxford Computer Academy)
+- **Java Training:** 4-week Java programming course + 6-week internship at J.K Technologies Pvt. Ltd.
+- **PHP & PHP++:** 6-month training + 3-month internship at Matrix Infosys
 
 ---
 
-## Awards & Recognition
+## Awards & Achievements
 
-| Award                           | Period            | Description                                               |
-|---------------------------------|-------------------|-----------------------------------------------------------|
-| **Best Performer of the Month** | September 2022    | Recognized for outstanding contributions and achievements |
-| **Spark Award**                 | Q2 (Jul-Sep 2022) | Awarded for exceptional performance and dedication        |
-
----
-
-## Key Achievements Summary
-
-| Metric                                 | Achievement           |
-|----------------------------------------|-----------------------|
-| **Total Experience**                   | 9+ Years              |
-| **Projects Delivered**                 | 20                    |
-| **Companies Worked**                   | 6                     |
-| **Servers Monitored**                  | 1,800+ (PayTM)        |
-| **VMs Managed**                        | 1500+ (NTT Data)      |
-| **Annual Cost Savings**                | $18K+ (25% reduction) |
-| **Downtime Reduction**                 | 30%                   |
-| **Deployment Time Reduction**          | 35%                   |
-| **Test Coverage Achieved**             | >90%                  |
-| **Manual Overhead Eliminated**         | 70%                   |
-| **Bug Reduction**                      | 50%                   |
-| **Integration Efficiency Improvement** | 40%                   |
-| **Job Failure Reduction**              | 15% → 0.2%            |
-| **Engineering Hours Saved**            | 20+ hours/month       |
-| **Developers Mentored**                | 5+                    |
-| **Environmental Datasets Processed**   | 10K+                  |
-| **Enterprises Supported**              | 50+                   |
+- **Best Performer of the Month, Sep 2022** — Infinite Computer Solutions, for outstanding delivery and client satisfaction.
+- **Spark Award, Q2 2022 (Jul–Sep)** — Infinite Computer Solutions, for exceptional performance over the quarter.
+- **GitHub Pull Shark Badge** — for consistent, high-quality open-source pull request contributions.
 
 ---
 
-## Career Timeline
+## Additional Information
 
-| Company                             | Role                                    | Duration            | Key Focus                                                |
-|-------------------------------------|-----------------------------------------|---------------------|----------------------------------------------------------|
-| NTT Data Business Solutions         | Senior Python Backend / Cloud Developer | July 2024 – Present | GCP Automation, Backup/Restore, Snapshot Management      |
-| Iora Ecological Solutions           | Senior Python Backend Developer         | Oct 2023 – Jun 2024 | SDG Dashboards, Carbon Toolbox, GIS Portals              |
-| Jindal India Thermal Power Ltd      | Python Backend Developer                | Feb 2023 – Oct 2023 | CI/CD, API Development, System Optimization              |
-| Infinite Computer Solutions (Nokia) | Senior Software Developer               | Jan 2022 – Feb 2023 | Monitoring Tools, Custom Reporting, Ansible              |
-| One97 Communications Ltd (PayTM)    | Software Developer                      | May 2016 – Jan 2022 | Server Monitoring, API Development, Legacy Modernization |
-| Accel Frontline Services Ltd        | Network Support Engineer                | Jul 2014 – May 2016 | Network Setup, Automation, Troubleshooting               |
-
----
-
-## Declaration
-
-I hereby confirm my intention to serve in the position stated above and affirm my availability to fulfill the
-responsibilities for the duration of the proposed contract. I also acknowledge that any intentional misstatements or
-omissions in the information provided may lead to disqualification, either before or during my engagement.
-
-**Jeetendra Gupta**
-
-Place: _____________  
-Date: _____________
-
----
+- **Open Source:** Maintains 18+ public Python repositories on GitHub covering FastAPI, Flask, GCP automation, and geospatial tooling.
+- **Industrial Training:** Java at Informatics Computer Education, PHP and PHP++ for 6 months at MultiSoft Systems, HTML and Web at Oxford Computer Academy, Java Internship at J.K Technologies, PHP Internship at Matrix Infosys.
+- **Languages:** English (professional working proficiency), Hindi (native)
